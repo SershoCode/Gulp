@@ -1,0 +1,28 @@
+{
+	"name": "gulpwork",
+	"version": "1.0.0",
+	"description": "Simple template for Gulp.js",
+	"main": "gulpfile.js",
+	"author": "Sersho",
+	"license": "MIT",
+	"private": true,
+	"dependencies": {
+		"gulp": "^4.0.2"
+	},
+	"devDependencies": {
+		"browser-sync": "latest",
+		"gulp-autoprefixer": "latest",
+		"gulp-clean": "latest",
+		"gulp-clean-css": "latest",
+		"gulp-concat": "latest",
+		"gulp-htmlmin": "latest",
+		"gulp-imagemin": "latest",
+		"gulp-plumber": "latest",
+		"gulp-rigger": "latest",
+		"gulp-sass": "latest",
+		"gulp-size": "latest",
+		"gulp-sourcemaps": "latest",
+		"gulp-uglify-es": "latest",
+		"imagemin-jpeg-recompress": "latest"
+	}
+}
